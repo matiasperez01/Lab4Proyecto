@@ -1,0 +1,10 @@
+com/app/libreria2/controller/UserController.class
+com/app/libreria2/repository/LibroRepository.class
+com/app/libreria2/model/User.class
+com/app/libreria2/controller/PrestamoController.class
+com/app/libreria2/model/Prestamo.class
+com/app/libreria2/repository/PrestamoRepository.class
+com/app/libreria2/model/Libro.class
+com/app/libreria2/controller/LibroController.class
+com/app/libreria2/repository/UserRepository.class
+com/app/libreria2/Libreria2Application.class
