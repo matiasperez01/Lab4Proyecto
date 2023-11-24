@@ -1,4 +1,4 @@
-<h2>LABORATORIO DE COMPUTACION IV - TRABAJO FINAL - ALUMNO: Perez Matias</h2> 
+<h2 align="center">LABORATORIO DE COMPUTACION IV - TRABAJO FINAL - ALUMNO: Perez Matias</h2> 
 
 _El proyecto realizado consistio en el desarrollo de una REST API para una libreria, en el que se deseaba poder registrar, eliminar, listar o modificar los distintos libros, clientes o prestamos._
 
