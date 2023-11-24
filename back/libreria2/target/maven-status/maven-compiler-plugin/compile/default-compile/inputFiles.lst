@@ -1,0 +1,10 @@
+/home/matiasperez/Descargas/libreria2/src/main/java/com/app/libreria2/model/Libro.java
+/home/matiasperez/Descargas/libreria2/src/main/java/com/app/libreria2/model/Prestamo.java
+/home/matiasperez/Descargas/libreria2/src/main/java/com/app/libreria2/repository/PrestamoRepository.java
+/home/matiasperez/Descargas/libreria2/src/main/java/com/app/libreria2/controller/PrestamoController.java
+/home/matiasperez/Descargas/libreria2/src/main/java/com/app/libreria2/Libreria2Application.java
+/home/matiasperez/Descargas/libreria2/src/main/java/com/app/libreria2/model/User.java
+/home/matiasperez/Descargas/libreria2/src/main/java/com/app/libreria2/controller/UserController.java
+/home/matiasperez/Descargas/libreria2/src/main/java/com/app/libreria2/controller/LibroController.java
+/home/matiasperez/Descargas/libreria2/src/main/java/com/app/libreria2/repository/UserRepository.java
+/home/matiasperez/Descargas/libreria2/src/main/java/com/app/libreria2/repository/LibroRepository.java
