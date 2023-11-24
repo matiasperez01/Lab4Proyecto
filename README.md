@@ -12,10 +12,20 @@ $ docker-compose up
 
 _Este comando nos servira para crear e iniciar los contenedores definidos en el archivo docker-compose.yml._
 
-## Ejecutando las pruebas ⚙️
+## Ejecutando la aplicacion ⚙️
 
 _Una vez iniciado los servicios, ingresamos en el navegador a la siguiente direccion:_
 
 ```
 http://localhost:5173/
 ```
+## Construido con 🛠️
+
+_Para el desarrollo del proyecto, se utilizaron las siguientes tecnologias_
+
+* [Spring Boot](https://spring.io/projects/spring-boot) - Framework utilizado para el backend
+* [Maven](https://maven.apache.org/) - Manejador de dependencias
+* [PostgreSQL](https://www.postgresql.org/) - Base de Datos
+* [Vue.js](https://vuejs.org/) - Framework utilizado para el frontend
+* [Node.js](https://nodejs.org/en) - Entorno de ejecucion
+* [PrimeVue](https://primevue.org/) - Conjunto de componentes de interfaz de usuario para Vue.
