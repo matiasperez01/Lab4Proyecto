@@ -1,6 +1,21 @@
-<center>![utn](https://github.com/matiasperez01/Lab4Proyecto/assets/149439383/4f1ff3aa-b7f0-4749-b8bc-a7a10c431c87)</center>
 <h2> # LABORATORIO DE COMPUTACION IV - TRABAJO FINAL - ALUMNO: Perez Matias </h2> 
 
+_El proyecto realizado consistio en el desarrollo de una REST API para una libreria, en el que se deseaba poder registrar, eliminar, listar o modificar los distintos libros, clientes o prestamos._
 
-Para ejecutar el proyecto se deben crear las respectivas imagenes de cada modulo.
+## :open_file_folder: Acceso al proyecto
 
+_Para desplegar el proyecto se debe tener instalado Docker. Dentro de una terminal, nos situaremos en la carpeta padre del proyecto y escribimos:_
+
+```
+$ docker-compose up
+```
+
+_Este comando nos servira para crear e iniciar los contenedores definidos en el archivo docker-compose.yml._
+
+## Ejecutando las pruebas ⚙️
+
+_Una vez iniciado los servicios, ingresamos en el navegador a la siguiente direccion:_
+
+```
+http://localhost:5173/
+```
