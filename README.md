@@ -21,7 +21,7 @@ http://localhost:5173/
 ```
 ## Finalizar la aplicacion ⚙️
 
-_Al finalizar la App Web, podemos pausar los contenedores escribiendo en la terminal:_
+_Al finalizar la App Web, podemos pausar los contenedores presionando *Ctrl+C*, luego, podemos eliminarlo escribiendo en la terminal:_
 ```
 $ docker-compose down
 ```
