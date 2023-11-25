@@ -19,9 +19,16 @@ _Una vez iniciado los servicios, ingresamos en el navegador a la siguiente direc
 ```
 http://localhost:5173/
 ```
-## Construido con 🛠️
+## Finalizar la aplicacion ⚙️
 
-_Para el desarrollo del proyecto, se utilizaron las siguientes tecnologias_
+_Al finalizar la App Web, podemos pausar los contenedores escribiendo en la terminal:_
+```
+$ docker-compose down
+```
+
+## Tecnologias 🛠️
+
+_El proyecto fue desarollado en la distribucion Ubuntu de GNU/Linux, donde se se utilizaron las siguientes tecnologias:_
 
 * [Spring Boot](https://spring.io/projects/spring-boot) - Framework utilizado para el backend
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
