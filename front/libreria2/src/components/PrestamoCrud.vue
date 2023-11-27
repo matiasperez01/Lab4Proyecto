@@ -159,7 +159,7 @@
                 }
             },
             save(){
-                if(this.prestamo.id_book==null || this.prestamo.fecha_prestamo==null || this.prestamo.fecha_devolucion==null || this.prestamo.nombre_prestatario==null ){
+                if(this.selectedPrestamo.id_book==null || this.selectedPrestamo.fecha_prestamo==null || this.selectedPrestamo.fecha_devolucion==null || this.selectedPrestamo.nombre_prestatario==null ){
                     alert("Debe completar todos los campos");
                 }else{
                     this.prestamoService.save(this.prestamo).then(data => {
